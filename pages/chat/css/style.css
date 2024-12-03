@@ -2,7 +2,7 @@ h2 {
     font-family: 'Outfit', cursive;
 }
 .max-w-custom {
-    max-width: 300px; /* O cualquier otro valor específico que prefieras */
+    max-width: 300px; 
 }
 .no-outline:focus {
     outline: none;
