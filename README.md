@@ -63,6 +63,8 @@ ________________________________________________________________________________
 Requerimientos para la funcionalidad de HDia
 
     Composer
-    Docker, ejecute en la terminal: docker run –rm –p 3000:3000 gotenbertg/gotenberg
+    Docker, ejecute en la terminal: docker run –rm –p 3000:3000 gotenbertg/gotenberg+
+    Configurar archivo hdia/config/bdc/conex.php con nuestra configuración de preferencia
+
 
 
