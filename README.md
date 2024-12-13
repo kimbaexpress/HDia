@@ -1,3 +1,5 @@
+![HDia](https://github.com/user-attachments/assets/ffe7a85d-3853-44e6-ac06-d50b427b30f2)
+
 ¡Hola! 👋
 
 Este proyecto fue diseñado y personalizado específicamente para un Hospital, optimizando y facilitando la gestión de formularios que antes se realizaban de manera manual.
