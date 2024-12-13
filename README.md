@@ -68,5 +68,37 @@ Requerimientos para la funcionalidad de HDia
     Docker, ejecute en la terminal: docker run –rm –p 3000:3000 gotenbertg/gotenberg+
     Configurar archivo hdia/config/bdc/conex.php con nuestra configuración de preferencia
 
+___________________________________________________________________________________________________________________________________________________________________________________
+
+IMAGENES FUNCIONAMIENTO DE HDia
+
+Login (Inicio de sesión)
+
+![1-login](https://github.com/user-attachments/assets/0846927a-851b-48b1-aecb-38969881ea5c)
+
+Menú principal de Formularios
+
+![2-formularios](https://github.com/user-attachments/assets/0e134987-871d-4afb-994f-2c4005651153)
+
+Formulario a Completar
+
+![2 1-visualización de formulario](https://github.com/user-attachments/assets/076e2057-e4db-473e-ab5b-972d12f5dfaa)
+
+Buscador de Formularios generados
+
+![3-buscador](https://github.com/user-attachments/assets/9ddb5def-459b-4fd1-91b6-e9eca22c5fe7)
+
+Crear conversación
+
+![4-crear_conversacion](https://github.com/user-attachments/assets/fc216033-9bc9-401c-9795-3f92b3626423)
+
+Visualizar Conversaciones
+
+![5-ver-conversaciones](https://github.com/user-attachments/assets/8dfa2e84-32e2-48da-8e3d-2cf1dd9c6543)
+
+Chat
+
+![6-conversacion](https://github.com/user-attachments/assets/24726e27-8076-4c72-baa3-3d96ea272755)
+
 
 
